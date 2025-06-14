@@ -43,3 +43,13 @@ Final accuracy was measured on the test set.
 Performance was visualized using accuracy graphs.
 
 A confusion matrix and classification report were generated for a detailed class-wise performance analysis.
+
+#output
+
+![Image](https://github.com/user-attachments/assets/8c32df08-5600-44f4-8f19-84cfa7f58b47)
+
+![Image](https://github.com/user-attachments/assets/3609427f-9c6b-4083-a680-b7724138117d)
+
+![Image](https://github.com/user-attachments/assets/b5bdc898-7988-48d6-b669-3e84f8f129c1)
+
+![Image](https://github.com/user-attachments/assets/3c8e76f9-deac-4b3d-aeaf-75dfcc311c31)
